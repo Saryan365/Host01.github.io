@@ -1,0 +1,26 @@
+
+ul {color: yellow;}
+pre {color: yellow;}
+p {color: gold;}
+h1 {color:gold;}
+button {background-color: orange;}
+h3 {color: red;}
+form {color: blueviolet;}
+select{color: blueviolet;}
+input{color: blueviolet;}
+body {background-color: black;}
+
+p {text-align: center;}
+pre {text-align: center;}
+header {text-align: center;}
+h1 {text-align: center;}
+h3 {text-align: center;}
+button {text-align: center;}
+a {text-decoration: none;}
+#sign {text-align: center;}
+.content {color:darkblue ;}
+button {background-color: greenyellow;}
+form {color: blueviolet;}
+select{color: blueviolet;}
+input{color: blueviolet;}
+body {background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 0, 170, 0.5));}

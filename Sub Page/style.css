@@ -1,0 +1,10 @@
+body {background-image: url(/Gallary/Katt.jpg); background-size:cover;}
+p {color: white;}
+pre {color: white;}
+b {color: indigo;}
+h1 {color: white;}
+select {color: white;}
+form {color: white;}
+
+/*body {background-image:linear-gradient(rgb(255, 0, 60), rgb(255, 42, 0));}*/
+

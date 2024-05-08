@@ -1,0 +1,13 @@
+body {background-image: url(/Gallary/AA.jpg);background-size: cover;}
+p {text-align: center;}
+pre {text-align: center;}
+header {text-align: center;}
+h1 {text-align: center;}
+h3 {text-align: center;}
+button {text-align: center;}
+a {text-decoration: none;}
+button {background-color:rgba(255, 255, 255, 0.75) ;}
+/*body {background-image:linear-gradient(rgba(35, 152, 247, 0.779), rgba(161, 35, 189, 0.79));}*/
+#sign {text-align: center;}
+.Log {color:rgba(4, 0, 255, 0.768);}
+.content {color:white ; font-family:cursive;}
